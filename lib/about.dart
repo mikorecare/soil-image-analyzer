@@ -17,11 +17,7 @@ class AboutWidget extends StatelessWidget {
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 8),
-            const Text('Dela Cruz, Nhero Jeshua M.'),
-            const Text('De Jesus, Lianne Ashley P.'),
-            const Text('Flameño, Cyrus Yael B.'),
-            const Text('Roque, Jared Joseph B.'),
-            const Text('Simbol, Monique Mhay H.'),
+            const Text('Miko Recare'),
             const SizedBox(height: 16),
             const Text(
               'Study Description:',
